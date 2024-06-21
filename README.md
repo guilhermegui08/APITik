@@ -50,19 +50,19 @@ To get started with APITik, follow the instructions below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/APITik.git```
+   git clone https://github.com/yourusername/APITik.git
 
 2. **Navigate to the project directory**:
    ```bash
-   cd APITik```
+   cd APITik
 
 3. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 4. **Run the application**:
    ```bash
-   python main.py```
+   python main.py
 
 ## License
 This project is licensed under the GPL-3.0 License. See the `LICENSE` file for details.
