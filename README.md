@@ -50,7 +50,7 @@ To get started with APITik, follow the instructions below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/APITik.git
+   git clone https://github.com/guilhermegui08/APITik.git
 
 2. **Navigate to the project directory**:
    ```bash
