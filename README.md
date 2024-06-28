@@ -3,6 +3,9 @@
 ## Overview
 
 **APITik** is an application designed to function as an SDN (Software-Defined Networking) controller to manage one or more Mikrotik routers running RouterOS. This project was developed as part of a laboratory assignment for Information Technologies 23/24, focusing on creating a comprehensive management tool using the Mikrotik REST API.
+![imagem](https://github.com/guilhermegui08/APITik/assets/112128696/c5e67ae5-ffe9-428b-a76e-64b4af6e7220)
+
+
 
 ## Features
 
